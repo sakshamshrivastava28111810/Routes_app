@@ -5,7 +5,7 @@ const MainHeader = () => {
   return (
     <div>
     <Outlet/>
-  Home page
+
 </div>
   )
 }
